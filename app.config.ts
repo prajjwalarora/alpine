@@ -12,7 +12,7 @@ export default defineAppConfig({
       position: 'left', // possible value are : | 'left' | 'center' | 'right'
       logo: {
         path: '/logo-prajjwal.svg', // path of the logo
-        pathDark: '/logo-prajjwal.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
+        pathDark: '/logo-dark-prajjwal.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
         alt: 'Prajjwal Arora' // alt of the logo
       }
     },
